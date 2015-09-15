@@ -1,4 +1,4 @@
-myJavascript
+MyJavascript
 ============
 
 JavaScript applications I have created
