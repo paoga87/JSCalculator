@@ -1,4 +1,4 @@
-MyJavascript
+JSCalculator
 ============
 
 Pure JS Calculator
