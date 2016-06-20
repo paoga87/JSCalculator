@@ -1,7 +1,7 @@
 MyJavascript
 ============
 
-JavaScript applications I have created
+Pure JS Calculator
 
 This Calculator was created by Paola Garcia C. for ECSprofessional.com
 
